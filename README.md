@@ -1,6 +1,7 @@
 # 1 - Introduction
 
 edit
+edit again
 
 Sensor driver for LSM303AGR sensor written in C programming language. This repository contains the sensor driver files (.h and .c) to be included, or linked directly as a git submodule, in your project. The driver is MISRA compliant and the documentation can be generated using the [Doxygen](http://www.doxygen.org/) tool.
 
